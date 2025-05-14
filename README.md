@@ -146,14 +146,3 @@ This project demonstrates advanced Power BI skills in dashboard design, data mod
 - Revenue contributions by disease and employee
 - Effective pricing categories and discount patterns
 
----
-
-## 📌 Author
-
-**Md. Ishtiak Azim**  
-Data Analyst | Power BI Enthusiast  
-[LinkedIn](17154629a) | [Email](azimtheanalyst@gmail.com)
-
----
-
-
