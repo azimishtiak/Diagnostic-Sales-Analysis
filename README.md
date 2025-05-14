@@ -127,13 +127,6 @@ This project demonstrates advanced Power BI skills in dashboard design, data mod
 
 ---
 
-## 📎 Screenshots
-
-### 📘 Glossary
-![Glossary](C:\Users\Tech Farazi\Desktop\All in One\All in One- NL\Data Analysis\Screenshots/Glossary.png)
-
----
-
 ## 🧠 Insights Unlocked
 
 - Peak test times and underutilized time slots
