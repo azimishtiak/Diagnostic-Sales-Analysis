@@ -1,6 +1,9 @@
 # 🧪 Diagnostic Sales Analysis Dashboard (Power BI)
 
 This Power BI project provides a comprehensive analysis of diagnostic test sales for a healthcare diagnostics center. The dashboard enables stakeholders to uncover sales patterns, patient behaviors, referral performance, and revenue drivers — all in one interactive and data-driven platform.
+Acceess The Full Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiNWE4MzQzNzUtNDBlYy00YmNmLTg0ZTEtNTFmMWE3YTRiZTA3IiwidCI6IjUyMDZlYzk2LWY0YzItNDc3My1hZjA3LTJmNDc3MzI4NmJjMCIsImMiOjEwfQ%3D%3D&pageName=aa4d2f58b0f72a2e8685
+
 **Note: As this is a real-world project involving confidential data, the dataset and the company name have been anonymized or omitted from the dashboard to maintain privacy and comply with data protection policies.**
 
 ## 📊 Dashboard Overview
