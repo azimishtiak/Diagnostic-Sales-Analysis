@@ -1,4 +1,4 @@
-# 🧪 Diagnostic Sales Analysis Dashboard (Power BI)
+# 🧪 Diagnostic Sales Analysis Dashboard (MySQL+Power BI)
 
 This Power BI project provides a comprehensive analysis of diagnostic test sales for a healthcare diagnostics center. The dashboard enables stakeholders to uncover sales patterns, patient behaviors, referral performance, and revenue drivers — all in one interactive and data-driven platform.
 Acceess The Full Dashboard:
